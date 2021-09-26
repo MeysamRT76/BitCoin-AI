@@ -8,12 +8,11 @@ Coins price forecast project using AI
 1. open the 'notebook.ipynb' and replace your api code with 'your-api-token' in hist_price_dl function
 2. Install Python and pip
 3. install requirements.txt
-
-
-5. install jupyter notebook
-6. run 'notebook.ipynb'
+ 
+4. install jupyter notebook
+5. run 'notebook.ipynb'
 OR
-5. copy code from 'notebook.ipynb' to a py file then run it.
+4. copy code from 'notebook.ipynb' to a py file then run it.
 
 میتونید با ایمیل زیر با من در ارتباط باشید
 m.rt1376@yahoo.com
